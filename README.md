@@ -1,0 +1,2 @@
+# ML-Project
+This dataset contains over 8600 rows of data, on each row is a person’s: Type (This person 4 letter MBTI type) The four categories are Introversion/Extraversion, Sensing/Intuition, Thinking/Feeling, Judging/Perception.  Each person is said to have one preferred quality from each category, producing 16 unique types. Kaggle has helped us to find datasets relevant to MBTI. And also the data collected was through the Personality cafe forum, as it provides a large selection of people and their MBTI personality type, as well as what they have written
